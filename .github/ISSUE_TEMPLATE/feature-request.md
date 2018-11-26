@@ -1,6 +1,6 @@
 ---
 name: "🌏 Improvement or Request Feature"
-about: Suggest an improvement or a feature
+about: Suggest improvements to make Toggl Desktop better
 
 ---
 <!-- Before submitting a new issue, please make sure that the same issue has not been already created -->
