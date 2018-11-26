@@ -5,7 +5,7 @@ about: Report bugs so we can sqush them!
 ---
 <!-- Before submitting a new issue, please make sure that the same issue has not been already created -->
 
-### 📦 Environment
+### 💻 Environment
 <!-- Describe the platform and Toggl Version. It helps us narrow down the issue to smaller section of our project -->
 
 Platform: <!--macOS/Windows/Linux-->
@@ -27,3 +27,7 @@ Toggl Version: <!--7.4.253-->
 1. 
 2. 
 3. 
+
+
+### 📦 Additional info
+<!-- Add all the error messages, logs and screenshots -->
