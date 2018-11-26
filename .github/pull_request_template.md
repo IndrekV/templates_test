@@ -1,21 +1,16 @@
-<!--- Provide a general summary of your changes in the Title above -->
-
-### 📒 Description
-<!--- Describe your changes in detail -->
+## ❓ What's this?
+<!-- Describe concisely what is the problems and the changes of this PR -->
 
 
-### 🤯 List of changes
-<!-- The changelog of this PR. It's useful for bigger PR-s. -->
+## 💾 How is it done?
+<!-- It would be nice if we describe how we tackle this problem. -->
 
 
-### 🕶️ Types of changes
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
+## 🤯 Changelogs 
+<!-- The changelogs of this PR. It's useful for a huge PR. -->
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
 
-### 👫 Relationships
+## 👫 Relationships
 <!-- Mention your Issue or other PR, which connects with this PR -->
 
 <!-- If you want to close the main issue automatically after PR is merged.-->
@@ -24,6 +19,5 @@
 <!-- Closes #your_issue_number-->
 
 
-### 🔎 Review hints
-<!-- Tips to the reviewer about how this should be tested -->
-
+## 🔎 Review hints
+<!-- Review hints to your teammates, who are responsible for review this PR. -->
