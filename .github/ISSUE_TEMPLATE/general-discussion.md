@@ -1,5 +1,5 @@
 ---
-name: "🌏 General Report"
+name: "🌏 General Discussion"
 about: Start a general discussion about Toggl Desktop
 
 ---
