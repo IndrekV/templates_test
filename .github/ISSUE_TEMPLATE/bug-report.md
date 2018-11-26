@@ -1,5 +1,5 @@
 ---
-name: "🐞 Bug Report"
+name: 🐞 Bug report
 about: Report bugs so we can sqush them!
 
 ---

@@ -1,5 +1,5 @@
 ---
-name: "🌏 Improvement or Request Feature"
+name: 🌏 Feature request
 about: Suggest improvements to make Toggl Desktop better
 
 ---
