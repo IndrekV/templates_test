@@ -3,16 +3,16 @@ name: "🌏 Improvement or Request Feature"
 about: Suggest improvements to make Toggl Desktop better
 
 ---
-<!-- Before submitting a new issue, please make sure that the same issue has not been already created -->
+<!-- Before submitting a new issue, please make sure that the same issue has not been created already -->
 
-### 📦 Environment
+### 💻 Environment
 <!-- Let us know the platform you would like the improvement to be in -->
 
 Platform: <!-- macOS/Windows/Linux -->
 
 
-## 🐞 Description
-<!-- Short and concise description of the imporvemen/feature -->
+## 📒 Description
+<!-- Short and concise description of the imporovement/feature -->
 
 
 ## ⭐️ Why do you want this?
