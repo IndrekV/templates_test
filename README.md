@@ -1,3 +1,3 @@
 # Github Templates test
 
-Repo to test how exactly the github templates work
+Repo to test how exactly the different github templates work
